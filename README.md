@@ -1,5 +1,5 @@
 # Baddies Script
-
+[Play the game: (https://www.roblox.com/games/11158043705/Baddies)**Baddies**]
 A feature-packed Roblox script for **Baddies**, featuring automated farming, combat utilities, visual enhancements, movement options, and various gameplay modifications.
 
 > **⚠️ Disclaimer:** This project is intended for educational and experimental purposes. Using third-party scripts or automation may violate Roblox or game-specific rules and can result in account penalties.
@@ -12,7 +12,7 @@ A feature-packed Roblox script for **Baddies**, featuring automated farming, com
 
 Automate money-making activities with built-in farming features.
 
-* **Nails Farm** — Automatically farms nails for money.
+* **Nails Farm** — Automatically farms nails for growth.
 * **ATM Farm** — Automatically interacts with ATMs to generate money.
 
 ---
